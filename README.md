@@ -1,0 +1,2 @@
+# swapi-graphql
+graphql swapi
